@@ -1,0 +1,26 @@
+{
+  "name": "react-native-app-shortcuts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "react-native": "index.js",
+  "keywords": ["react-native", "shortcuts", "quick actions", "home screen"],
+  "files": ["android", "ios", "src", "index.js"],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antosmamanktr/react-native-quick-shortcuts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/antosmamanktr/react-native-quick-shortcuts/issues"
+  },
+  "homepage": "https://github.com/antosmamanktr/react-native-quick-shortcuts#readme"
+}
