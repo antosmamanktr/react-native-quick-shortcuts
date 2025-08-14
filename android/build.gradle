@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 
 android {
-    namespace "com.reactnativeappshortcuts"
+    namespace "com.reactnativequickshortcuts"
     compileSdkVersion rootProject.ext.compileSdkVersion
 
     defaultConfig {
