@@ -1,4 +1,4 @@
-package com.reactnativeappshortcuts // change to your package name
+package com.reactnativequickshortcuts // change to your package name
 
 import android.app.Activity
 import android.content.Intent
