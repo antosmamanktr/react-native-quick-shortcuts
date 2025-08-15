@@ -1,1 +1,0 @@
-# react-native-quick-shortcuts
