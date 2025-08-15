@@ -4,7 +4,7 @@
   "main": "index.js",
   "react-native": "index.js",
   "keywords": ["react-native", "shortcuts", "quick actions", "home screen"],
-  "files": ["android", "ios", "src", "index.js"],
+  "files": ["android", "ios", "src", "index.js",   "react-native-quick-shortcuts.podspec"],
   "homepage": "https://github.com/antosmamanktr/react-native-sms-consent-kit#readme",
   "bugs": {
     "url": "https://github.com/antosmamanktr/react-native-sms-consent-kit/issues"
