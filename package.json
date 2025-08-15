@@ -1,0 +1,32 @@
+{
+  "name": "react-native-quick-shortcuts",
+ "version": "1.0.0",
+  "main": "index.js",
+  "react-native": "index.js",
+  "keywords": ["react-native", "shortcuts", "quick actions", "home screen"],
+  "files": ["android", "ios", "src", "index.js"],
+  "homepage": "https://github.com/antosmamanktr/react-native-sms-consent-kit#readme",
+  "bugs": {
+    "url": "https://github.com/antosmamanktr/react-native-sms-consent-kit/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antosmamanktr/react-native-sms-consent-kit.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "scripts": {
+    "build:types": "tsc --emitDeclarationOnly",
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-native": ">=0.68.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.9",
+    "@types/react-native": "^0.72.8",
+    "typescript": "^5.9.2"
+  }
+}
